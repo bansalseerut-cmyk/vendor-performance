@@ -195,10 +195,7 @@ jupyter notebook "Exploratory Data Analysis.ipynb"
 
 ---
 
-## 📬 Contact
-
-**[Your Name]**
-[LinkedIn] • [Email] • [Portfolio]
+**[Seerut]**
 
 ---
 
