@@ -193,9 +193,7 @@ jupyter notebook "Exploratory Data Analysis.ipynb"
 - Add unit tests for the ingestion and cleaning functions
 - Parameterize database credentials via environment variables instead of hardcoding
 
----
-
-**[Seerut]**
+-
 
 ---
 
