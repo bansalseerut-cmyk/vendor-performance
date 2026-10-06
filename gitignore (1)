@@ -1,0 +1,55 @@
+# ===== Data =====
+# Raw CSV data files are large and shouldn't be committed to the repo
+data/
+*.csv
+
+# ===== Logs =====
+logs/
+*.log
+
+# ===== Databases =====
+*.db
+*.sqlite
+*.sqlite3
+
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+env/
+venv/
+.venv/
+ENV/
+
+# ===== Jupyter Notebook =====
+.ipynb_checkpoints/
+
+# ===== Credentials / Environment variables =====
+.env
+*.env
+config.py
+secrets.py
+
+# ===== Power BI =====
+# .pbix files are usually fine to commit (this project's is small),
+# but uncomment the line below if yours grows too large for GitHub (>100MB)
+# *.pbix
+
+# Power BI temp/cache files
+*.pbix.bak
+~$*.pbix
+
+# ===== OS files =====
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ===== IDE / Editor =====
+.vscode/
+.idea/
+*.swp
